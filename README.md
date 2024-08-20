@@ -1,4 +1,4 @@
-# Cyber_IR_db
+# Cybersecurity Incident Response Database
 
 ## Brief Description
 
